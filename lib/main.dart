@@ -4,7 +4,7 @@ void main() => runApp(MaterialApp(
       debugShowCheckedModeBanner: false ,
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Transferências"),
+          title: Text("Transferências atuais"),
         ),
         floatingActionButton: FloatingActionButton(
           onPressed: () {  },
